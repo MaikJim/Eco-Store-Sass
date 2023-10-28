@@ -1,3 +1,4 @@
+//Variables
 $primary-color: #FFEFE7;
 $secondary-color: #FFDAC6;
 $tertiary-color: #BABD8D;
@@ -221,3 +222,10 @@ footer{
 		padding-bottom: 40px;
 	}
 }
+
+//Media 
+$breakpoint-phone: (
+    sm: 330px,
+    md: 700px,
+    lg: 1024px
+);
